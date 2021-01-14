@@ -1,1 +1,4 @@
 AyakkabiEvreni
+---
+permalink: /index.html
+---
